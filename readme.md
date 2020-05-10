@@ -148,9 +148,9 @@ oc new-app -f httpd.json
 
 Wait for a few mintues until the deploment and build has successfully completed and the pod has been deployed. Check the status by running the `oc get all` command.
 
-![](./images/18.png)
-
 Copy the application URL from the routes section and open it up in the browser.
+
+![](./images/18.png)
 
 ## Author
 
