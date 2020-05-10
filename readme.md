@@ -1,5 +1,5 @@
 # 
-<h1 align="center">Welcome to Setting Up OpenShift Custer Using Code Ready Containers (CRC) on MacOS 👋</h1>
+<h1 align="center">Welcome to Setting Up OpenShift Cluster Using Code Ready Containers (CRC) on MacOS 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Red%20Hat%20Open%20Shift-4.2%20or%20newer-EE0000?labelColor=EE0000&color=grey&logo=Red%20Hat%20Open%20Shift&style=social%22" />
   <a href="https://twitter.com/mfaisaltariq01" target="_blank">
